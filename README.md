@@ -1,4 +1,4 @@
-#CALCULATOR
+# CALCULATOR
 
 In this program, it will stimulate a **basic calculator**. It will
 perform basic arithmetic operations such as addition,
